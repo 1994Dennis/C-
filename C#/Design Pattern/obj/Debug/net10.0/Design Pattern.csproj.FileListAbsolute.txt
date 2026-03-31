@@ -1,0 +1,14 @@
+C:\Users\Dennis\source\StripeDemotest\c#\C#\Design Pattern\bin\Debug\net10.0\Design Pattern.exe
+C:\Users\Dennis\source\StripeDemotest\c#\C#\Design Pattern\bin\Debug\net10.0\Design Pattern.deps.json
+C:\Users\Dennis\source\StripeDemotest\c#\C#\Design Pattern\bin\Debug\net10.0\Design Pattern.runtimeconfig.json
+C:\Users\Dennis\source\StripeDemotest\c#\C#\Design Pattern\bin\Debug\net10.0\Design Pattern.dll
+C:\Users\Dennis\source\StripeDemotest\c#\C#\Design Pattern\bin\Debug\net10.0\Design Pattern.pdb
+C:\Users\Dennis\source\StripeDemotest\c#\C#\Design Pattern\obj\Debug\net10.0\Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dennis\source\StripeDemotest\c#\C#\Design Pattern\obj\Debug\net10.0\Design Pattern.AssemblyInfoInputs.cache
+C:\Users\Dennis\source\StripeDemotest\c#\C#\Design Pattern\obj\Debug\net10.0\Design Pattern.AssemblyInfo.cs
+C:\Users\Dennis\source\StripeDemotest\c#\C#\Design Pattern\obj\Debug\net10.0\Design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Dennis\source\StripeDemotest\c#\C#\Design Pattern\obj\Debug\net10.0\Design Pattern.dll
+C:\Users\Dennis\source\StripeDemotest\c#\C#\Design Pattern\obj\Debug\net10.0\refint\Design Pattern.dll
+C:\Users\Dennis\source\StripeDemotest\c#\C#\Design Pattern\obj\Debug\net10.0\Design Pattern.pdb
+C:\Users\Dennis\source\StripeDemotest\c#\C#\Design Pattern\obj\Debug\net10.0\Design Pattern.genruntimeconfig.cache
+C:\Users\Dennis\source\StripeDemotest\c#\C#\Design Pattern\obj\Debug\net10.0\ref\Design Pattern.dll
