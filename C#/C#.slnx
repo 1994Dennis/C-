@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="C#/C#.csproj" />
+  <Project Path="Classes, Structs &amp; Types/Classes, Structs &amp; Types.csproj" Id="efb2d670-fb15-4825-8838-a04545aad801" />
+  <Project Path="Collection/Collection.csproj" Id="c1c1bb0e-979b-4e07-8501-f6a6dd9675e0" />
   <Project Path="Design Pattern/Design Pattern.csproj" Id="6f686df1-ccba-45a2-bb8a-9e7fcf5753eb" />
 </Solution>

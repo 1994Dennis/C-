@@ -27,7 +27,7 @@ Person shallowcopy = original.ShallowCopy();
 shallowcopy.Name = "Charlie";
 shallowcopy.Address.City = "Mumbai123";
 
-Console.WriteLine("Shallow copy================" s);
+Console.WriteLine("Shallow copy================" );
 Console.WriteLine("If I have a Person object with a Name and an Address object, a shallow copy will create a new Person object, but both the original and the copy will share the same Address object. So changing the address in the copy will affect the original.”");
 Console.WriteLine(original.Name);  // Bob
 Console.WriteLine(shallowcopy.Name);      // Charlie
